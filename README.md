@@ -8,7 +8,7 @@ User interface
 ![alt text](https://i.ibb.co/MSLTyJB/03-06-2024-123103.jpg)
 ![alt text](https://i.ibb.co/30Qs8FH/20-06-2024-194049.jpg)
 ![alt text](https://i.ibb.co/YjVLKsp/20-06-2024-194144.jpg)
-## Below is chat gpt desription, sorry =)
+## Below is chat gpt desription...
 The code is written in Pascal and seems to be a part of a questionnaire or polling application. It consists of various units, types, methods, and variables. Here's a detailed description of the code:
 
 ### Interface Section
